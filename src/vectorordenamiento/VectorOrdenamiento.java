@@ -14,8 +14,10 @@ public class VectorOrdenamiento {
         
         or.carga();
         or.imprimirDesorden();
-        or.ordenarBurbuja();
-        or.imprimirBurbuja();
+        or.ordenarBurbujaMenorMayor();
+        or.imprimirBurbujaMenorMayor();
+        or.OrdenarBurbujaMayorMenor();
+        or.imprimirBurbujaMayorMenor();
     }
     
 }
